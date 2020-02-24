@@ -15,8 +15,6 @@ A collection of documents and programs to learn about Data Science and ML using 
 
 ### Programs
 
-| Directory | Programs | Purpose |
+| Directory | Programs | Datasets |
 |:---|:---|:---|
-| `/LSTM/`| | |
-| | | |
-| `/GRU/` | | |
+| `TensorHub/` | Text_Classification | IMDB Reviews (TFDS) |
