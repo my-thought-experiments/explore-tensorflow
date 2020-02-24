@@ -1,3 +1,10 @@
+# TF Specific
+hdf5/
+saved_model/
+
+# Apple Specific
+.DS_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
