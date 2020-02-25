@@ -8,7 +8,7 @@ A collection of documents and programs to learn about Data Science and ML using 
 
 * TensorFlow Basics
 * TensorBoard
-* TensorHub
+* TensorFlow Hub
 * TensorFlow Extended
 * CoLab
 * ML Perf
@@ -17,4 +17,4 @@ A collection of documents and programs to learn about Data Science and ML using 
 
 | Directory | Programs | Datasets |
 |:---|:---|:---|
-| `TensorHub/` | Text_Classification | IMDB Reviews (TFDS) |
+| `TensorFlowHub/` | Text_Classification | IMDB Reviews (TFDS) |
