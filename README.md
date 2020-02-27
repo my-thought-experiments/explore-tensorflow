@@ -16,13 +16,13 @@ Annotations:
 * (D) means documents, markdowns etc.
 
 | Folder name | File name | Purpose |
-|:---|:---|:---|:---|
-| `TensorFlowHub/` | (P) Introduction_TensorFlow_Hub | |
+|:---|:---|:---|
+| TensorFlowHub/ | (P) Introduction_TensorFlow_Hub | |
 | | (P) Text_Classification | |
 | | (P) Image_Classification | |
 | | (D) README.md | Documentation, references, etc. on TensorFlow Hub |
-| `RNN/` | (P) Text_Generation_CharacterBased | |
+| RNN/ | (P) Text_Generation_CharacterBased | |
 | | (P) Word Embeddings | |
 | | (D) README.md | Documentation, references, etc. on RNN, LSTM, GRU etc. |
-| `TFMigration/` | (D) README.md | Documentation, references, etc. on migration TF1 to TF2. |
+| TFMigration/ | (D) README.md | Documentation, references, etc. on migration TF1 to TF2. |
 
