@@ -1,6 +1,9 @@
 # TF Specific
 hdf5/
 saved_model/
+*.index*
+*.data*
+training_checkpoints/
 
 # Apple Specific
 .DS_*
